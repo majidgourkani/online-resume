@@ -13,7 +13,7 @@ contact:
   telegram:
   website: 
   medium:
-  linkedin: majid-gourkani-b43659b9
+  linkedin: majid-gourkani
   googlescholar:
   researchgate:
   github: majidgourkani
@@ -121,27 +121,33 @@ certificates:
     - name: Web Application Penetration Test (AWAPT-SANA 542) 
       authority: Nooranet
       time: 2018
-      
+      link: 
+      details: |
     - name: Penetration testing With Kali (PWK)
       authority: Self-study
       time: 2018
-      
+      link: 
+      details: |
     - name: Linux Professional Institute (LPIC-1, LPIC-2)
       authority: Self-study 
       time: 2017
-      
+      link: 
+      details: |
     - name: Certified Ethical Hacking (CEH)
       authority: Self-study
       time: 2017
-      
+      link: 
+      details: |
     - name: Microsoft Certified Solutions Associate (MCSA 2012)
       authority: Dibagaran
       time: 2017
-      
+      link: 
+      details: |
     - name: Cisco Certified Network Associate (CCNA)
       authority: Dibagaran
       time: 2017
-      
+      link: 
+      details: |
   detailes:
     All education courses are without certification and I could not to register for the exam due to the conditions in Iran
 
