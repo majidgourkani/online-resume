@@ -1,25 +1,25 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Majid Gourgani
+  title: Security Expert, DevOps
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: majid.gourkani@gmail.com
+  phone: +98-936-7966-274
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
-  linkedin:
+  linkedin: majid-gourkani-b43659b9
   googlescholar:
   researchgate:
-  github: github
+  github: majidgourkani
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -28,145 +28,131 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    As an Application Security Engineer, active listener, adaptable, team worker, and highly organized person, seeking a position to utilize my several years of experience in different aspects of Penetration Testing, Application Security, DevOps, Working with Security Devices, Security Solutions Providing in challenging environments. 
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Security Expert
+      time: 2021.09 - Present
+      company: Mahsan Co
+      tag: Full-time 
+      location: Tehran, Iran
       details: |
-        Experience in this company:
-        + First
-        + Second
+        +	Senior Penetration tester (Web application, Web Service, Mobile Application and Network)
+        +	Participating in implementing Application Security process and tools: DevSecOps (Threat Modeling/SAST/DAST/SCA)
+        +	Performed penetration testing on Docker
+        +	Participating in the Vulnerability Remediation and Vulnerability Reporting process
+        +	Developing hardening documents and Network security architecture
+        +	Auditing deployed products against security standards
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Security Expert
+      time: 2018.03 - 2021.08
+      company: Amnafzar-Gostar Sharif
+      tag: Full-time
+      location: Tehran, Iran
       details: |
-        Experience in this company:
-        + First
-        + Second
+        +	Head of Security Assessment and Penetration Testing Dept, [1 year]
+        +	Senior Penetration tester (Web application, Web Service, Mobile Application and Network)
+        +	Senior Researcher at Security Assessment and Penetration Testing Dept.
+        +	Red-Teaming of networks and internal systems
+        +	R&D at Network Security architecture, Social Engineering and Logic Vulnerabilities in Businesses like Transaction and Internet Payment Gateway (IPG)
+        +	Holding more than 250 hours of penetration testing training 
 
-        ...
-
-projects:
-  display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
+    - role: Penetration Tester
+      time: 2017.03 - 2018.02
+      company: Amn-negar Saman Co
+      tag: Full-time
+      location: Tehran, Iran
       details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
+        +	Junior Web-Application, Web-Service and Network Penetration tester
+        +	Senior Researcher and Developer at Security Dept
+        +	Network Administrator and System Supporter
 
 skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
+    +	Well-known understanding in OWASP methodology (OTG, WSTG) and NIST; also, familiar with SAMM (Software Assurance Maturity Model)
+    +	Web application and Web Service Vulnerability Assessment and Penetration Testing and related tools (such as Burp Suite, Acunetix, SqlMap, …)
+    +	Network Vulnerability Assessment and Penetration Testing and fluent in many related tools (such as Canvas, Nessus, collection of tools located in Kali, …)
+    +	Mobile Application (Android) Vulnerability Assessment and Penetration Testing and Familiar in many related tools (such as MobSF, ADB, APKtool, Frida framework, …)
+    +	Experienced Memory Forensic
+    +	Experienced WAF(Web Application Firewall) Fine-Tuning test
+    +	Version Control Systems (Git), AWS, Docker, Kubernetes, CI/CD
+    +	Application programming: Python, Java, C
+    +	Web programming: HTML, CSS, JavaScript, Ajax, PHP (Laravel Framework), ASP. Net
+    +	Web Services: SOAP and REST
+    +	DBMS: MySQL, MS-SQL Server, PostgreSQL and No-SQL
+    +	Shell Scripting: Bash
+    +	Switching and Routing, Network Services, Active Directory, Virtualization
+    +	Linux (Debian-based and Redhat-based platforms) / WS-Win (XP/Vista/7/8/10)
 
   levels:
-    - name: Skill A
+    - name: Penetration Testing
       level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
+    - name: DevOps and Cloud
+      level: 50
+    - name: Networking and Operating System
       level: 70
+    - name: Programming
+      level: 50
 
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: Shiraz University of Technology
+      time: 2012 - 2017
+      major: Information Technology (IT)
+      degree: Bachlor (B.Sc)
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+        Thesis:” Investigation and implementation of Snort intrusion detection system”
 
 certificates:
   display: true
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
-
-publications:
-  display: true
-  title: Publications
-  intro: |
-    This is all the books I wrote.
-
-  items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+    - name: Advance Web Application Penetration Test (AWAPT-SANA 642)
+      authority: Nooranet
+      time: 2018
+    - name: Web Application Penetration Test (AWAPT-SANA 542) 
+      authority: Nooranet
+      time: 2018
+    - name: Penetration testing With Kali (PWK)
+      authority: Self-study
+      time: 2018
+    - name: Linux Professional Institute (LPIC-1, LPIC-2)
+      authority: Self-study 
+      time: 2017
+    - name: Certified Ethical Hacking (CEH)
+      authority: Self-study
+      time: 2017
+    - name: Microsoft Certified Solutions Associate (MCSA 2012)
+      authority: Dibagaran
+      time: 2017
+    - name: Cisco Certified Network Associate (CCNA)
+      authority: Dibagaran
+      time: 2017
+  detailes:
+    All education courses are without certification and I could not to register for the exam due to the conditions in Iran
 
 patents:
   display: true
-  title: Patents
+  title: Honors 
   details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
+    International Capture the flag (CTF) Competition
+    +	1st Place: Sharif University-S4CTF 2021 | Tarbiat Modares University-TMUCTF 2021 | Razi University-RaziCTF 2020, as a member of “GEB2L” team
+    +	3rd Place: FwordCTF - FwordCTF 2021, as a member of “irNoobs” team
+    +	4th place: DaVinciCode - DaVinciCTF 2021, as a member of “irNoobs” team
+    +	7th Place: BSides Noida CTF 2021 | Crusaders of Rust - corCTF 2021 | DragonSec SI - DCTF 2021 as a member of “irNoobs” team
 
 languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Persian
       level: Native
     - idiom: English
       level: Professional
@@ -177,19 +163,12 @@ interests:
   items:
     - item: Reading
       link:
-    - item: Cooking
+    - item: Watching Movies
       link:
-
-evaluation:
-  display: true
-  title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
-
+    - item: CTF
+      link: https://ctftime.org/team/70393
+    - item: Computer games
+      link:
 footer:
   display: true
 
