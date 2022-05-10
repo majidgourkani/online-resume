@@ -90,12 +90,12 @@ skills:
     +	Linux (Debian-based and Redhat-based platforms) / WS-Win (XP/Vista/7/8/10)
 
   levels:
-    - name: Penetration Testing
+    - name: Pen-Test
       level: 90
-    - name: DevOps and Cloud
-      level: 50
-    - name: Networking and Operating System
-      level: 70
+    - name: DevOps
+      level: 60
+    - name: Network/OS
+      level: 75
     - name: Programming
       level: 50
 
@@ -117,24 +117,31 @@ certificates:
     - name: Advance Web Application Penetration Test (AWAPT-SANA 642)
       authority: Nooranet
       time: 2018
+      
     - name: Web Application Penetration Test (AWAPT-SANA 542) 
       authority: Nooranet
       time: 2018
+      
     - name: Penetration testing With Kali (PWK)
       authority: Self-study
       time: 2018
+      
     - name: Linux Professional Institute (LPIC-1, LPIC-2)
       authority: Self-study 
       time: 2017
+      
     - name: Certified Ethical Hacking (CEH)
       authority: Self-study
       time: 2017
+      
     - name: Microsoft Certified Solutions Associate (MCSA 2012)
       authority: Dibagaran
       time: 2017
+      
     - name: Cisco Certified Network Associate (CCNA)
       authority: Dibagaran
       time: 2017
+      
   detailes:
     All education courses are without certification and I could not to register for the exam due to the conditions in Iran
 
@@ -143,10 +150,10 @@ patents:
   title: Honors 
   details: |
     International Capture the flag (CTF) Competition
-    +	1st Place: Sharif University-S4CTF 2021 | Tarbiat Modares University-TMUCTF 2021 | Razi University-RaziCTF 2020, as a member of “GEB2L” team
+    +	1st Place: Sharif University-S4CTF 2021 - Tarbiat Modares University-TMUCTF 2021 - Razi University-RaziCTF 2020, as a member of “GEB2L” team
     +	3rd Place: FwordCTF - FwordCTF 2021, as a member of “irNoobs” team
     +	4th place: DaVinciCode - DaVinciCTF 2021, as a member of “irNoobs” team
-    +	7th Place: BSides Noida CTF 2021 | Crusaders of Rust - corCTF 2021 | DragonSec SI - DCTF 2021 as a member of “irNoobs” team
+    +	7th Place: BSides Noida CTF 2021 - Crusaders of Rust - corCTF 2021 - DragonSec SI - DCTF 2021 as a member of “irNoobs” team
 
 languages:
   display: true
